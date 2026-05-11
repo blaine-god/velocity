@@ -86,4 +86,4 @@ This project is licensed under the terms of the [GNU General Public License v3.0
 
 ### Other License
 
-This project includes code derived from the [Velocity](https://github.com/PaperMC/Velocity) project.
+This project includes code derived from the [Velocity](https://github.com/PaperMC/Velocity) project.  
